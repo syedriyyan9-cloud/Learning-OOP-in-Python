@@ -1,0 +1,1 @@
+Wrong design as id should be an attribute of a note not of a notebook.
